@@ -15,7 +15,7 @@ def main():
     # Alternative way to create dictionary with initial values
     person_info2 = {
         'first_name': 'Jane',
-        'last_name': 'Smith'
+        'last_name': 'Smthgf'
     }
     
     print("\nAnother dictionary created with initial values:")
